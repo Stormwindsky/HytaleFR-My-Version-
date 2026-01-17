@@ -12,6 +12,7 @@ from pathlib import Path
 # Configuration
 LANG_DIR = Path("FrenchPack/Server/Languages/fr-FR")
 PROGRESS_FILE = Path("translation_progress.json")
+START_LINE = 3570  # Ignorer les premières lignes (commandes techniques)
 
 def parse_lang_file(filepath: Path) -> dict:
     """Parse un fichier .lang et retourne un dict {key: value}"""
@@ -20,6 +21,10 @@ def parse_lang_file(filepath: Path) -> dict:
     
     with open(filepath, 'r', encoding='utf-8') as f:
         for line_num, line in enumerate(f, 1):
+            # Skip lines before START_LINE
+            if line_num < START_LINE:
+                continue
+                
             line = line.rstrip('\n')
             
             # Section headers (comments like # === section ===)
@@ -33,7 +38,6 @@ def parse_lang_file(filepath: Path) -> dict:
             
             # Parse key = value
             if '=' in line:
-                # Handle multi-line values with backslash
                 key, _, value = line.partition('=')
                 key = key.strip()
                 value = value.strip()
