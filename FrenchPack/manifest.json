@@ -1,0 +1,15 @@
+{
+  "Group": "fr-translation",
+  "Name": "FrenchTranslation",
+  "Version": "1.0.0",
+  "Description": "Traduction française pour Hytale - French Translation Pack for Hytale",
+  "Authors": [
+    {
+      "Name": "Elou4nn"
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {}
+}
