@@ -15,11 +15,16 @@
 
 ## 📊 Progression
 
-| Fichier | Lignes | Statut |
-|---------|--------|--------|
-| server.lang | 7,886 | ⏳ En cours |
-| wordlists.lang | - | ⏳ En cours |
-| Avatar Customization (22 files) | ~200 | ⏳ En cours |
+### server.lang (7,886 lignes)
+![0%](https://progress-bar.xyz/0/?title=server.lang&width=400)
+
+### wordlists.lang
+![0%](https://progress-bar.xyz/0/?title=wordlists&width=400)
+
+### Avatar Customization (22 fichiers)
+![0%](https://progress-bar.xyz/0/?title=avatar&width=400)
+
+> 💡 **Pour mettre à jour:** Change le nombre dans l'URL (ex: `progress-bar.xyz/25/` pour 25%)
 
 ## 🤝 Contribuer
 
