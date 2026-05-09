@@ -58,6 +58,8 @@ FrenchPack/
 
 - **Elou4nn** - Créateur et mainteneur du dépots (code source) original
 
+- que vous pouvez trouvé ici: https://github.com/elouannd/HytaleFR
+
 - **Stormwindsky** - Créateur et mainteneur de se dépots (mon propre dépots)
 
 ## 📜 License
