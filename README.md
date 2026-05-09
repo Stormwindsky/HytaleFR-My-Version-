@@ -54,9 +54,11 @@ FrenchPack/
     └── avatarCustomization/  (22 fichiers)
 ```
 
-## 👤 Auteur
+## 👤 Auteur(s)
 
-- **Elou4nn** - Créateur et mainteneur
+- **Elou4nn** - Créateur et mainteneur du dépots (code source) original
+
+- **Stormwindsky** - Créateur et mainteneur de se dépots (mon propre dépots)
 
 ## 📜 License
 
