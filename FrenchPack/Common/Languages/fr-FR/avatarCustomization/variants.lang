@@ -1,34 +1,33 @@
-earSide = Ear Side
-earSide.left = Left
-earSide.right = Right
-earSide.both = Both
+earSide = Côté de l'oreille
+earSide.left = Gauche
+earSide.right = Droite
+earSide.both = Les deux
 
-pattern.skull = Skull Pattern
-pattern.star = Star Pattern
-pattern.gaia = Prismatic Tree Pattern
-pattern.cat = Cat Pattern
-pattern.bunny = Bunny Pattern
-pattern.unicorn = Unicorn Pattern
-pattern.cat = Cat Pattern
-pattern.play = Play Button Pattern
-pattern.play_inverted = Inverted Play Button Pattern
+pattern.skull = Motif crâne
+pattern.star = Motif étoile
+pattern.gaia = Motif arbre prismatique
+pattern.cat = Motif chat
+pattern.bunny = Motif lapin
+pattern.unicorn = Motif licorne
+pattern.play = Motif bouton "Play"
+pattern.play_inverted = Motif bouton "Play" inversé
 
-pants.dungareesshorts = Dungaree Shorts
-pants.bracedshorts = Braced Shorts
-pants.dungarees = Dungarees
-pants.bracedpants = Braced Pants
+pants.dungareesshorts = Short de salopette
+pants.bracedshorts = Short à bretelles
+pants.dungarees = Salopette
+pants.bracedpants = Pantalon à bretelles
 
-default = Default
+default = Par défaut
 
-overtops.Scavenger_Poncho = No Skull
+overtops.Scavenger_Poncho = Sans crâne
 
-capes.no_neck = No Neck
+capes.no_neck = Sans col
 
 haircuts.Dreadlocks01.name = Dreadlocks 1
 haircuts.Dreadlocks02.name = Dreadlocks 2
 haircuts.Dreadlocks03.name = Dreadlocks 3
-haircuts.SlickbackCowlick.name = [TMP] Cowlicked Slickback
+haircuts.SlickbackCowlick.name = [TMP] Gominé avec épi
 
-headaccessory.Logo_Cap_Movie.name = Movie Logo
-headaccessory.Logo_Cap_Heart.name = Heart Logo
-headaccessory.Logo_Cap_Hypixel.name = Hypixel Logo
+headaccessory.Logo_Cap_Movie.name = Logo cinéma
+headaccessory.Logo_Cap_Heart.name = Logo cœur
+headaccessory.Logo_Cap_Hypixel.name = Logo Hypixel
